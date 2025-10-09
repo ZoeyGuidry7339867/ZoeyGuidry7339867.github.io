@@ -37,10 +37,11 @@ $(function () {
  createPlatform(500,350, 100,10)
  createPlatform(700,250, 300,10)
  createPlatform(200,350, 200,10)
- createPlatfrom(900,450, 200,10)
 
     // TODO 3 - Create Collectables
-createCollectable("steve", 200 , 250 )
+createCollectable("steve", 200, 250)
+createCollectable("diamond", 800, 500)
+createCollectable("kennedi", 400, 600)
 
 
     
