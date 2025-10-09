@@ -31,12 +31,16 @@ $(function () {
 
 
     // TODO 2 - Create Platforms
- createPlatform(500,300, 100,10)
-
-
+ createPlatform(600,450, 200,10)
+ createPlatform(400,650, 300,10)
+ createPlatform(800,550, 200,10)
+ createPlatform(500,350, 100,10)
+ createPlatform(700,250, 300,10)
+ createPlatform(200,350, 200,10)
+ createPlatfrom(900,450, 200,10)
 
     // TODO 3 - Create Collectables
-
+createCollectable('dimaond', 200,250 )
 
 
     
