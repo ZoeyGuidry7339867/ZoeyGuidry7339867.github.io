@@ -40,7 +40,7 @@ $(function () {
  createPlatfrom(900,450, 200,10)
 
     // TODO 3 - Create Collectables
-createCollectable('dimaond', 200,250 )
+createCollectable("steve", 200 , 250 )
 
 
     
